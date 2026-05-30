@@ -17,3 +17,6 @@ I am currently a student exploring the intersection of clean software developmen
 <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />  <!-- Illustrator -->
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />  <!-- Photoshop -->
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+
+## Contributions Calendar
+![](./profile-3d-contrib/profile-green-animate.svg)
